@@ -1,0 +1,4 @@
+ mydata = read.table("D:/Information Retrieval Project/Clustering stuff/clusterData.csv",fill=TRUE,, sep=",")
+> d <- dist(as.matrix(mydata))
+> hc <- hclust(d)
+> plot(hc)

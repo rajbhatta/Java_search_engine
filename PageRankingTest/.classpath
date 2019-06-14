@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/University Backup Project/Library/dom4j.jar"/>
+	<classpathentry kind="lib" path="D:/University Backup Project/Library/jackson-annotations-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/University Backup Project/Library/jackson-core-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/University Backup Project/Library/jackson-databind-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/University Backup Project/Library/nio.jar"/>
+	<classpathentry kind="lib" path="D:/University Backup Project/Library/uimaj-core-2.4.2.jar"/>
+	<classpathentry kind="lib" path="D:/University Backup Project/Library/apache-commons.jar"/>
+	<classpathentry kind="lib" path="D:/University Backup Project/Library/lucene-analyzers-common-6.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/University Backup Project/Library/lucene-core-6.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/University Backup Project/Library/lucene-highlighter-6.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/University Backup Project/Library/lucene-memory-6.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/University Backup Project/Library/lucene-queries-6.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/University Backup Project/Library/lucene-queryparser-6.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
